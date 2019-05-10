@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://piethooqu.jonathanebinger.com/sitemap.xml
